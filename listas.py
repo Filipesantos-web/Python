@@ -11,4 +11,5 @@ for i in range (x):
 print("Calculando a soma dos elementos")
 for i in range (x):
     lista3[i]=lista1[i]+lista2[i]
-    print(lista3)
+
+print(lista3)
